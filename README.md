@@ -94,3 +94,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Author
 
 Shubham Petkar (mail to:petkars907@gmail.com)
+Parmeet Khatat (mail to:khatatparmeet30@gmail.com)
